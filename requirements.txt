@@ -5,3 +5,4 @@
 !pip install torch
 !pip install sklearn
 !pip install scipy
+!git clone https://github.com/Mosen-Yang/GAN-TimeSeries.git
