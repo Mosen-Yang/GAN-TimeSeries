@@ -5,7 +5,7 @@ Implentation of <a href="https://arxiv.org/abs/1907.06673" rel="nofollow">Wiese 
 
 This repository includes code from:
 
-ICascha/QuantGANs-replication
+<a href="https://github.com/ICascha/QuantGANs-replication">ICascha/QuantGANs-replication</a>
 
 Greg Ver Steeg, 2015
 
